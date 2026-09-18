@@ -40,12 +40,4 @@ The [full appendix](supplementary_material/full_appendix.pdf) contains:
 9. The campaign-identification algorithm
 10. Representative conversation examples
 
-## Materials Not Released
 
-We do not release the full uncoded dataset, raw call audio, raw or unreviewed transcripts, telephony logs, deployment credentials, or identifying deployment information. These materials may contain sensitive or identifying information that cannot be reliably anonymized.
-
-## Citation
-
-Please cite:
-
-> Zhuoer Lyu et al. "When Scammers Talk Back: Understanding Potentially Unwanted Calls via LLM-Based Interaction." Proceedings of the 2026 ACM SIGSAC Conference on Computer and Communications Security (CCS '26). https://doi.org/10.1145/3830454.3846770

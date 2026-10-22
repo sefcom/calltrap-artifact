@@ -40,4 +40,18 @@ The [full appendix](supplementary_material/full_appendix.pdf) contains:
 9. The campaign-identification algorithm
 10. Representative conversation examples
 
+## Citation
+
+If you use this artifact, please cite our paper:
+
+```bibtex
+@inproceedings{lyu2026scammers,
+	title={When Scammers Talk Back: Understanding Potentially Unwanted Calls via LLM-Based Interaction},
+	author={Lyu, Zhuoer and Bitaab, Marzieh and Huang, Shuyi and Karimi, Alireza and Robertson, William and Yu, Zeming and Schloegel, Moritz and Shoshitaishvili, Yan and Ahn, Gail-Joon and Soneji, Ananta and Wang, Ruoyu and Doup{\'e}, Adam and Bao, Tiffany},
+	booktitle={Proceedings of the 2026 ACM SIGSAC Conference on Computer and Communications Security},
+	year={2026},
+	doi={10.1145/3830454.3846770}
+}
+```
+
 
